@@ -1,4 +1,4 @@
-
+Enhance BetterTouchTool for macOS with new BetterTouchTool for macOS Service | performance-boost + duplicate-finder, the #1 service. Includes performance-boost and
 
 
 
